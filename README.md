@@ -1,6 +1,8 @@
 # FinalYearGame
 Final year project
 
+To open the project, the HealthGame.uproject must be opened with Unreal Engine Version 5.3 opened.
+
 List of assets used: <br>
 https://www.unrealengine.com/marketplace/en-US/product/poly-art-wolf <br>
 https://www.unrealengine.com/marketplace/en-US/product/stylized-pbr-nature-pack <br>
